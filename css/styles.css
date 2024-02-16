@@ -60,8 +60,8 @@ background-color: #FFFFFF;
 color: #434455;
 }
 
-.page-header-contacts .link:hover,
-.page-header-contacts .link:focus {
+.page-header-contacts .links:hover,
+.page-header-contacts .links:focus {
 color: #404bbf;
 }
 
@@ -161,7 +161,7 @@ color: #404bbf;
     text-transform: uppercase;
 }
 
-.logo-name-f {
+.part-logo-name {
     color: #f4f4fd;
 }
 
