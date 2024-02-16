@@ -42,6 +42,11 @@ background-color: #FFFFFF;
     color: #2e2f42;
 }
 
+.page-nav .link:hover,
+.page-nav .link:focus {
+    color: #404bbf;
+}
+
 .page-header-contacts {
     color: #434455;
     font-size: 16px;
@@ -51,9 +56,15 @@ background-color: #FFFFFF;
     font-style: normal;
 }
 
-page-nav .link:hover, .page-nav .link:focus {
+.links {
+color: #434455;
+}
+
+.page-header-contacts .link:hover,
+.page-header-contacts .link:focus {
 color: #404bbf;
 }
+
 
 /* Main content */
 .effective-solutions {
@@ -150,7 +161,7 @@ color: #404bbf;
     text-transform: uppercase;
 }
 
-page-footer-name {
+.logo-name-f {
     color: #f4f4fd;
 }
 
