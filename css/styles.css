@@ -34,8 +34,6 @@ background-color: #FFFFFF;
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-align: left;
-    width: 44px;
-    height: 21px;
 }
 
 .link {
@@ -131,16 +129,10 @@ color: #404bbf;
 
 .team-card {
     background-color: #FFFFFF;
-    box-shadow: 0px 2px 1px 0px #2E2F4214;
-    box-shadow: 0px 1px 1px 0px #2E2F4229;
-    box-shadow: 0px 1px 6px 0px #2E2F4214;
 }
 
 .project-card {
     background: #FFFFFF;
-    box-shadow: 0px 2px 1px 0px #2E2F4214;
-    box-shadow: 0px 1px 1px 0px #2E2F4229;
-    box-shadow: 0px 1px 6px 0px #2E2F4214;
 }
 
 
