@@ -14,8 +14,8 @@ background-color: #FFFFFF;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    text-align: left;
 }
+
 .page-header-logo {
     color: #4d5ae5;
     font-family: Raleway, sans-serif;
@@ -23,7 +23,6 @@ background-color: #FFFFFF;
     font-weight: 700;
     line-height: 1.17;
     letter-spacing: 0.03em;
-    text-align: left;
     text-transform: uppercase;
 }
 
@@ -33,7 +32,6 @@ background-color: #FFFFFF;
     font-size: 18px;
     line-height: 1.17;
     letter-spacing: 0.03em;
-    text-align: left;
 }
 
 .link {
@@ -50,17 +48,25 @@ background-color: #FFFFFF;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    text-align: left;
     font-style: normal;
 }
 
-.links {
-color: #434455;
+.page-address {
+    color: #434455;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
 
-.page-header-contacts .links:hover,
-.page-header-contacts .links:focus {
-color: #404bbf;
+.links {
+    color: #434455;
+}
+
+.page-address .links:hover,
+.page-address .links:focus {
+    color: #404bbf;
 }
 
 
@@ -149,7 +155,6 @@ color: #404bbf;
     font-weight: 700;
     line-height: 1.17;
     letter-spacing: 0.03em;
-    text-align: left;
     text-transform: uppercase;
 }
 
@@ -162,5 +167,4 @@ color: #404bbf;
     font-weight: 400;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    text-align: left;
 }
