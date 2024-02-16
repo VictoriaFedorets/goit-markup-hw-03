@@ -7,7 +7,7 @@ background-color: #FFFFFF;
 
 
 /* Header */
-.page-header-navigation {
+.page-header {
     color: #2E2F42;
     font-family: Roboto;
     font-weight: 500;
@@ -38,12 +38,8 @@ background-color: #FFFFFF;
     height: 21px;
 }
 
-page-header-link:hover {
-    color: #404bbf;
-}
-
-page-header-link {
-    color: #404bbf;
+.link {
+    color: #2e2f42;
 }
 
 .page-header-contacts {
@@ -55,7 +51,7 @@ page-header-link {
     font-style: normal;
 }
 
-page-header-cont-link:hover, .page-header-cont-link::focus {
+page-nav .link:hover, .page-nav .link:focus {
 color: #404bbf;
 }
 
@@ -91,6 +87,7 @@ color: #404bbf;
 
 
 .title-two {
+    color: #2e2f42;
     font-weight: 500;
     font-size: 36px;
     line-height: 1.11;
@@ -100,6 +97,7 @@ color: #404bbf;
 }
 
 .title-three {
+    color: #2e2f42;
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
