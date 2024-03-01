@@ -368,13 +368,6 @@ ul {
   flex-wrap: wrap;
 }
 
-/* .project-list-block {
-  display: flex;
-  width: 1128px;
-  height: 420px;
-  gap: 24px; */
-}
-
 .project-card {
   width: 360px;
   height: 420px;
