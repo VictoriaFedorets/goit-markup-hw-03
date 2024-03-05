@@ -142,12 +142,6 @@ img {
 .hero {
   background-color: #2e2f42;
   padding: 188px 0;
-  /* display: flex;
-  flex-direction: column;
-  justify-content: center;
-  
-  margin-left: auto;
-  margin-right: auto; */
 }
 
 .title {
@@ -162,7 +156,7 @@ img {
   margin-bottom: 48px;
 }
 
-.order {
+.hero-button {
   color: #ffffff;
   background-color: #4d5ae5;
   font-family: 'Roboto', sans-serif;
@@ -171,7 +165,6 @@ img {
   line-height: 1.5;
   letter-spacing: 0.04em;
   box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
-  background: var(--iris);
 
   cursor: pointer;
 
@@ -183,8 +176,8 @@ img {
   margin: 0 auto;
 }
 
-.order:hover,
-.order:focus {
+.hero-button:hover,
+.hero-button:focus {
   background-color: #404bbf;
 }
 
