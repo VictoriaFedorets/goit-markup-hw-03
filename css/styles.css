@@ -198,7 +198,7 @@ img {
   text-transform: capitalize;
 
   text-align: center;
-  padding-bottom: 72px;
+  margin-bottom: 72px;
 }
 
 .title-three {
@@ -208,7 +208,7 @@ img {
   line-height: 1.2;
   letter-spacing: 0.02em;
 
-  padding-bottom: 8px;
+  margin-bottom: 8px;
 }
 
 .text {
@@ -227,12 +227,10 @@ img {
 .items-advantages {
   display: flex;
   gap: 24px;
-  width: calc((100%-3 * 24) / 4);
 }
 
 .advantages-list {
-  width: 264px;
-  height: 104px;
+  width: calc((100%-3 * 24) / 4);
 }
 
 /* =============Section 3============ */
