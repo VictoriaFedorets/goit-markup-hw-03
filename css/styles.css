@@ -29,7 +29,14 @@ a {
 
 img {
   display: block;
+  max-width: 100%;
+  height: auto;
 }
+
+address {
+  font-style: normal;
+}
+/* отмена курсива */
 
 /* button {
   cursor: pointer;
